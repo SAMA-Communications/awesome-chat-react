@@ -4,6 +4,7 @@ A collection of awesome things regarding Chat &amp; React ecosystem
 ## General
 - [react-chat-elements](https://github.com/Detaysoft/react-chat-elements) - React chat components
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - Ready chat screen for React Native
+- [pubnub/react-chat-components](https://github.com/pubnub/react-chat-components) - Chat UI Components for React and React Native
 
 ## AI
 - [assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 
