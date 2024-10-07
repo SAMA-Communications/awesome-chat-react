@@ -9,6 +9,7 @@ A collection of awesome open source things that help build Chat apps with React.
 - [MinChatHQ/react-chat-ui](https://github.com/MinChatHQ/react-chat-ui) - React Chat UI components
 - [Azure/communication-ui-library](https://azure.github.io/communication-ui-library/) - UI Library from Azure that helps developers build communication applications with ease
 - [AmityCo/Amity-Social-Cloud-UIKit-Web-OpenSource](https://github.com/AmityCo/Amity-Social-Cloud-UIKit-Web-OpenSource) - UI components for social chat
+- [talkjs/talkjs-react](https://github.com/talkjs/talkjs-react) - React components for TalkJS
 
 ## State management
 - [use-chat](https://github.com/chatscope/use-chat) - React hook for state management in chat applications.
