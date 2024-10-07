@@ -1,5 +1,5 @@
 # awesome-chat-react
-A collection of awesome open source things that helps build Chat apps with React.
+A collection of awesome open source things that help build Chat apps with React.
 
 ## UI
 - [react-chat-elements](https://github.com/Detaysoft/react-chat-elements) - React chat components
