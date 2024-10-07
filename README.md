@@ -10,7 +10,7 @@ A collection of awesome things regarding Chat &amp; React ecosystem
 - [AmityCo/Amity-Social-Cloud-UIKit-Web-OpenSource](https://github.com/AmityCo/Amity-Social-Cloud-UIKit-Web-OpenSource) - UI components for social chat
 
 ## State management
-- [use-chat](https://github.com/chatscope/use-chat) React hook for state management in chat applications.
+- [use-chat](https://github.com/chatscope/use-chat) - React hook for state management in chat applications.
 
 ## AI
 - [assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 
