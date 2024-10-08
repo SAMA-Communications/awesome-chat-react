@@ -1,7 +1,7 @@
 # awesome-chat-react
 A collection of permissive license open source things that help build Chat apps with React.
 
-## UI
+## UI components
 - [Detaysoft/react-chat-elements](https://github.com/Detaysoft/react-chat-elements) - React chat components
 - [chatscope/chat-ui-kit-react](https://github.com/chatscope/chat-ui-kit-react) - Chat UI components for React
 - [FaridSafi/react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) - Ready chat screen for React Native
@@ -20,3 +20,6 @@ A collection of permissive license open source things that help build Chat apps 
 - [deepchat.dev](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 
 - [nlux](https://github.com/nlkitai/nlux) - The Powerful Conversational AI JavaScript Library — UI for any LLM
+
+## Apps
+- [msk4862/Anomly](https://github.com/msk4862/Anomly) - A chat app where one can chat anonymously and can create unlimited chat rooms. Written in NextJs & Socket.io.
