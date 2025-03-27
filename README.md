@@ -19,6 +19,7 @@ A collection of permissive license open source things that help build Chat apps 
 
 ## State management
 - [chatscope/use-chat](https://github.com/chatscope/use-chat) - React hook for state management in chat applications.
+- [ConnectyCube/use-chat](https://github.com/ConnectyCube/use-chat) - A React hook for state management in ConnectyCube-powered chat solutions
 
 ## AI
 - [deepchat.dev](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
