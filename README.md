@@ -25,6 +25,7 @@ A collection of permissive license open source things that help build Chat apps 
 - [deepchat.dev](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 
 - [nlux](https://github.com/nlkitai/nlux) - The Powerful Conversational AI JavaScript Library — UI for any LLM
+- [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces with React support
 - [twihike/chat-ui-react](https://github.com/twihike/chat-ui-react) - React component for conversational UI (last update 2021)
   
 ## Apps
